@@ -10,10 +10,11 @@ The download link is [MSRSI](https://drive.google.com/file/d/189Q3pvwojeYDq7bdBO
 MSRSI is first released in this paper, if you find it helpful in your research, please cite our paper.
 
 ```
-@ARTICLE{sun2023MSRSI,
+@ARTICLE{sun10285469,
   title={Consistency Center-Based Deep Cross-Modal Hashing for Multi-Source Remote Sensing Image Retrieval}, 
   author={Yuxi Sun, Yunming Ye, Jian Kang, Ruben Fernandez-Beltran, Xutao Li, Zhenyu Xiong, Xu Huang, and Antonio Plaza},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  year={2023}
+  year={2023},
+  doi={10.1109/TGRS.2023.3323495}
 }
 ```
